@@ -3,7 +3,7 @@ title = "Auf der Spur des Übersinnlichen"
 date = "2024-04-23"
 draft = false
 pinned = false
-footnotes = "Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team ([Vorstand - GhostHunters Schweiz)](<Vorstand - GhostHunters Schweiz>)\n\nAbbildung 5: Sebastian Walther, Psycholog der UPD-Bern (<Research: Prof. Dr. med. Sebastian Walther - Clinical Neuroscience Bern (unibe.ch)>"
+footnotes = "Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team ([Vorstand - GhostHunters Schweiz)](<Vorstand - GhostHunters Schweiz>)\n\nAbbildung 5: Sebastian Walther, Psycholog der UPD-Bern ([Research: Prof. Dr. med. Sebastian Walther - Clinical Neuroscience Bern (unibe.ch)](https://www.neuroscience.unibe.ch/research/personen/prof_dr_med_walther_sebastian/))"
 +++
 # Unterwegs mit den Ghosthunters
 
@@ -26,7 +26,11 @@ Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnbloc
 
 ![Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team](bild-von-thomas-frei.png "Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team")
 
-Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter tätig und führt medizinische Telefonate durch, ein kostenloser Service, um Menschen in medizinischen Fragen zu beraten und allenfalls zur Notfallnummer weiterzuleiten.{{</box>}}
+Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter tätig und führt medizinische Telefonate durch, ein kostenloser Service, um Menschen in medizinischen Fragen zu beraten und allenfalls zur Notfallnummer weiterzuleiten.
+
+{{<box>}} Reikimeister*innen Reiki bedeutet «universelle Lebensenergie». Es gibt eine gewisse Energie, die uns alles zu jeder Zeit zur Verfügung steht, die wir auch nutzen können um Behandlung an anderen Lebewesen. Bei der Anwendung von Reiki werden Selbstheilungskräfte aktiviert, Blockaden gelöst und die Gedanken werden klarer. {{</box>}}
+
+{{</box>}}
 
 ## Die Arbeit als Ghosthunter*in
 
