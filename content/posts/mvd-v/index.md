@@ -11,14 +11,11 @@ Spukgestalten und Geisterjäger*innen kennt man aus bekannten Horrorfilmen wie C
 \
 *Eine Reportage von Linda Jakob und Luna Petitmermet, 26. April. 2024*
 
-
-
 *März 2024…*
-
 
 Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnblocks von Safenwil. Das Summen der Eingangstür ist das einzige Geräusch, das die Abendstille durchbricht. Eine feine Duftnote Weihrauch hängt in der Luft des Eingangsbereichs, die mit jedem Stufenstritt stärker wird. Die Quelle des orientalischen Duftes ist die Wohnungstür von Thomas Frei. Hinter der Wohnungstür versteckt sich eine gründlich ausgeräucherte, von sakralen Gegenständen und Ghostbustersfanartikeln übersähte Wohnung. Nach 15 Minuten warten, in denen Herr Frei ruhelos hinter verschiedenen Türen verschwindet, um letzte Telefonate zu führen, beginnt die Reise in die Welt des Paranormalen. 
 
-![Abbildung 1: Wohnung von Thomas F. (Linda und Luana)](wohnung-von-thomas-frei.jpg "Abbildung 1: Wohnung von Thomas F. (Linda und Luana)")
+![](wohnung-von-thomas-frei.jpg "Abbildung 1: Wohnung von Thomas F. (Linda und Luana)")
 
 ## Geboren als Medium
 
@@ -58,10 +55,7 @@ Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psy
 Laut Freis Theorien seien alle Menschen mit 10 Sinnen geboren, die während dem Entwicklungsprozess von Kindern zu Jugendlichen durch die Sozialisierung unserer Gesellschaft oft verloren gehen würden. Wie bekannt haben wir Menschen den Tast-, Seh-, Riech- und Geschmackssinn. Die erweiterten 5 Sinne seien die sogenannten hellen Sinne, die Grundsinne in verschärfter. Durch diese hellen Sinne hätten wir das Gespür für Übernatürliches. 
 «Ein Medium ist kein spezieller Mensch», meint Herr Frei, ein Medium welches sage, es habe spezielle Fähigkeiten das lüge schlicht und einfach. Medien hätten einfach diese hellen Sinne präsent, die der Mainstreammensch gar nicht für existent halte. Eine Person, die sich als Medium bezeichne, sei imstande Botschaften vom Übersinnlichen zu erhalten und so eine Kommunikation zwischen Energien und Mensch herzustellen, dies verliefe ausschliesslich über die hellen Sinne.
 
-
-
-## Verschiedene Theorien, verschiedene Meinungen 
-
+## Verschiedene Theorien, verschiedene Meinungen
 
 Herr Walther meine, dass sonderbare Geräusche, ungewöhnliche Vorkommnisse und Eindrücke nicht auf Paranormalität geschoben werden könne. Für Paranormales gebe es keine Beweise, doch es sei bekannt, dass Phänomene wie diese im Gehirn und der Interaktion zwischen dem Gehirn und dem Körper entstehen. Erkenntnisse wie diese wurden in den letzten 20-30 Jahren gemacht, als man begonnen habe Gehirnfunktionen am Lebenden zu messen. Die psychische Energie und alles, was dazugehöre wie zum Beispiel das Denken oder auch die Entwicklung der Identität seien noch nicht komplett erforscht und verstanden, doch es sei auf jeden Fall sicher, dass sonderartige Wahrnehmungen im Gehirn stattfänden. 
 /«Emotionale Kurzschlüsse, die uns das vorgaukeln»
