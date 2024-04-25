@@ -56,7 +56,7 @@ Bei dem Sterbeprozess trennten sich diese beiden Energien voneinander, der Körp
 
 
 
-> ### *«Wir waren schon und werden immer sein»*
+> *«Wir waren schon und werden immer sein»*
 
 
 Herr Prof. Dr. med. Walther, aus dem Gebiet der Psychiatrie und Psychotherapie widerspricht dieser Aussage jedoch: Unser Körper und unsere Seele sei eine Energie und werde nicht in zwei Bereiche aufgeteilt. Es können zwar seelische Funktionen gemessen werden, doch nicht die Seele selbst es sei etwas, das von der Wissenschaft nicht erfasst werden könne. Daher sei es nicht möglich, dass sie weiterexistiere. Bei einem Sterbeprozess entfliehe die Energie eines Körpers durch die Ausstrahlung von Wärme.
@@ -81,13 +81,13 @@ Laut Freis Theorien seien alle Menschen mit 10 Sinnen geboren, die während dem 
 Herr Walther meine, dass sonderbare Geräusche, ungewöhnliche Vorkommnisse und Eindrücke nicht auf Paranormalität geschoben werden könne. Für Paranormales gebe es keine Beweise, doch es sei bekannt, dass Phänomene wie diese im Gehirn und der Interaktion zwischen dem Gehirn und dem Körper entstehen. Erkenntnisse wie diese wurden in den letzten 20-30 Jahren gemacht, als man begonnen habe Gehirnfunktionen am Lebenden zu messen. Die psychische Energie und alles, was dazugehöre wie zum Beispiel das Denken oder auch die Entwicklung der Identität seien noch nicht komplett erforscht und verstanden, doch es sei auf jeden Fall sicher, dass sonderartige Wahrnehmungen im Gehirn stattfänden. 
 
 
-> ### *«Emotionale Kurzschlüsse, die uns das vorgaukeln»*
+> *«Emotionale Kurzschlüsse, die uns das vorgaukeln»*
 
 
 Menschen, die Übersinnliches wahrnehmen bilden sich dies oft nur ein und seien selten von einer psychischen Krankheit betroffen. Die Schwierigkeit sei es, zu separieren und interpretieren, welche der Patient*innen nun so eine Illusion oder einen Sinneseindruck erfahren. Rund 5 Prozent der Weltbevölkerung seien grundsätzlich gesund, haben aber Illusionen, was nicht automatisch bedeutet, dass sie auf Hilfe angewiesen seien. Laut Professor Walther leiden nur ungefähr 1 Prozent der Weltbevölkerung an der psychischen Erkrankung Schizophrenie, die das Denken und die Gefühlswelt von den Betroffenen störe. Sie kann auch zu Realitätsverlusten und Wahrnehmungstäuschungen führen. Symptome von Schizophrenie sind Veränderung im Verhalten und Denken oder Verlust der Funktionsfähigkeit.
 Thomas Frei sieht diese Momente, in denen Menschen Sinneseindrücke durchleben, als Anwesenheiten von übernatürlichen Energien. Diese Anwesenheit von Energien sei etwas Natürliches, wir nähmen sie nur oft nicht wahr und wenn dann als etwas Gefährliches. Unbekannte Geräusche, Gegenstände, die selbstständig ihren Standort verändern und Stimmen zu hören, die nicht da sein sollten sei völlig normal könne aber natürlich erschreckend sein, wenn man keine Erfahrung damit habe und Energien als böse und unerwünscht sehe. 
 
-> ### 
+>
 > *«Wir sind alle Eins.»*
 
 
