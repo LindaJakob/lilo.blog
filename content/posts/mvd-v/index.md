@@ -23,11 +23,9 @@ Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnbloc
 
 {{<box title="Thomas Frei">}}
 
-![Abbildung 2: Bild von Thomas F.](bild-von-thomas-frei.png "Abbildung 2: Bild von Thomas F.")
+![Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team](bild-von-thomas-frei.png "Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team")
 
 Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter tätig und führt medizinische Telefonate durch, ein kostenloser Service, um Menschen in medizinischen Fragen zu beraten und allenfalls zur Notfallnummer weiterzuleiten.{{</box>}}
-
-
 
 ## Die Arbeit als Ghosthunter*in
 
@@ -37,12 +35,10 @@ Der Ghosthunterverein sei leider auch für kriminelle Energien verlockend. Mensc
 
 {{<box title="Ghosthuntersausweis">}}
 
-![Abbildung 3: Ghosthuntersausweis (Thomas Frei)](bild-von-ghosthunterausweis.jpg "Abbildung 3: Ghosthuntersausweis (Thomas Frei)")
+![Abbildung 3: Ghosthuntersausweis (Linda und Luana)](bild-von-ghosthunterausweis.jpg "Abbildung 3: Ghosthuntersausweis (Linda und Luana)")
 
 Jede*r, der im Ghosthunterverein arbeite, habe daher einen Ausweis, der die Zugehörigkeit zum Verein bestätige. 
 Die Ausbildung zum Ghosthunter kann jede Person machen, es sei jeder Mensch fähig, sich mit diesem Themenbereich auseinanderzusetzen. {{</box>}}
-
-
 
 ## Mit dem Tod zum Geist?
 
@@ -50,14 +46,10 @@ Die Ausbildung zum Ghosthunter kann jede Person machen, es sei jeder Mensch fäh
 
 ![](tod.png)
 
-
 Er erklärt, dass zwei Energien in einem geschlossenen Raum einen Kurzschluss ergäben. Diese Aussage sei auf physikalische Gesetze zurückzuführen, in denen man von zwei gegensätzlichen Polen ausgehe. In diesem Fall seien die beiden Polen der Körper und die Aura in der menschlichen Hülle als geschlossener Raum, diese Gegensätze lösen bei einer direkten Verbindung einen Kurzschluss aus. Zusammenfassend sei es also so, dass der Körper grobstofflich und die Aura feinstofflichen sei und somit zwei getrennte Energien. Charakter und all unsere Eigenschaften seien im Feinstofflichen Teil abgespeichert, eine unendliche Energie, die nach dem Tod nicht einfach verschwinde. Diesen Teil brauche man, um in alle Formen der menschlichen Kommunikation zu gehen. Das Grobstoffliche sei alles, was man sehen könne, der Körper. 
 Bei dem Sterbeprozess trennten sich diese beiden Energien voneinander, der Körper vergehe, aber das Feinstoffliche bleibe als Energie auf unserem Planeten zurück. Der Planet Erde sei auch eine grosse Energie und alles, was auf der Erde existiere und lebe, sei Energie, die nicht einfach verloren gehen könne. 
 
-
-
 > *«Wir waren schon und werden immer sein»*
-
 
 Herr Prof. Dr. med. Walther, aus dem Gebiet der Psychiatrie und Psychotherapie widerspricht dieser Aussage jedoch: Unser Körper und unsere Seele sei eine Energie und werde nicht in zwei Bereiche aufgeteilt. Es können zwar seelische Funktionen gemessen werden, doch nicht die Seele selbst es sei etwas, das von der Wissenschaft nicht erfasst werden könne. Daher sei es nicht möglich, dass sie weiterexistiere. Bei einem Sterbeprozess entfliehe die Energie eines Körpers durch die Ausstrahlung von Wärme.
 
@@ -67,28 +59,20 @@ Herr Prof. Dr. med. Walther, aus dem Gebiet der Psychiatrie und Psychotherapie w
 
 Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psychotherapie der UPD gibt aus seiner Position eine wissenschaftlich basierte Sicht auf das Thema der Paranormalität. Der Schwerpunkt seiner Arbeit ist die Erforschung motorischer Störungen bei psychischen Erkrankungen. Der Patient*innen die er behandelt, haben eine ganze Reihe an Auffälligkeiten die dazu führen dass sie auch in der nonverbalen Kommunikation falsch verstanden werden. Die Betroffenen nehmen beispielsweise komische Körperhaltungen ein oder können nicht richtig gestikulieren. {{</box>}}
 
-
-
 ## «Wir haben alle 10 Sinne»
 
 Laut Freis Theorien seien alle Menschen mit 10 Sinnen geboren, die während dem Entwicklungsprozess von Kindern zu Jugendlichen durch die Sozialisierung unserer Gesellschaft oft verloren gehen würden. Wie bekannt haben wir Menschen den Tast-, Seh-, Riech- und Geschmackssinn. Die erweiterten 5 Sinne seien die sogenannten hellen Sinne, die Grundsinne in verschärfter. Durch diese hellen Sinne hätten wir das Gespür für Übernatürliches. 
 «Ein Medium ist kein spezieller Mensch», meint Herr Frei, ein Medium welches sage, es habe spezielle Fähigkeiten das lüge schlicht und einfach. Medien hätten einfach diese hellen Sinne präsent, die der Mainstreammensch gar nicht für existent halte. Eine Person, die sich als Medium bezeichne, sei imstande Botschaften vom Übersinnlichen zu erhalten und so eine Kommunikation zwischen Energien und Mensch herzustellen, dies verliefe ausschliesslich über die hellen Sinne.
 
-
-
 ## Verschiedene Theorien, verschiedene Meinungen
 
 Herr Walther meine, dass sonderbare Geräusche, ungewöhnliche Vorkommnisse und Eindrücke nicht auf Paranormalität geschoben werden könne. Für Paranormales gebe es keine Beweise, doch es sei bekannt, dass Phänomene wie diese im Gehirn und der Interaktion zwischen dem Gehirn und dem Körper entstehen. Erkenntnisse wie diese wurden in den letzten 20-30 Jahren gemacht, als man begonnen habe Gehirnfunktionen am Lebenden zu messen. Die psychische Energie und alles, was dazugehöre wie zum Beispiel das Denken oder auch die Entwicklung der Identität seien noch nicht komplett erforscht und verstanden, doch es sei auf jeden Fall sicher, dass sonderartige Wahrnehmungen im Gehirn stattfänden. 
 
-
 > *«Emotionale Kurzschlüsse, die uns das vorgaukeln»*
-
 
 Menschen, die Übersinnliches wahrnehmen bilden sich dies oft nur ein und seien selten von einer psychischen Krankheit betroffen. Die Schwierigkeit sei es, zu separieren und interpretieren, welche der Patient*innen nun so eine Illusion oder einen Sinneseindruck erfahren. Rund 5 Prozent der Weltbevölkerung seien grundsätzlich gesund, haben aber Illusionen, was nicht automatisch bedeutet, dass sie auf Hilfe angewiesen seien. Laut Professor Walther leiden nur ungefähr 1 Prozent der Weltbevölkerung an der psychischen Erkrankung Schizophrenie, die das Denken und die Gefühlswelt von den Betroffenen störe. Sie kann auch zu Realitätsverlusten und Wahrnehmungstäuschungen führen. Symptome von Schizophrenie sind Veränderung im Verhalten und Denken oder Verlust der Funktionsfähigkeit.
 Thomas Frei sieht diese Momente, in denen Menschen Sinneseindrücke durchleben, als Anwesenheiten von übernatürlichen Energien. Diese Anwesenheit von Energien sei etwas Natürliches, wir nähmen sie nur oft nicht wahr und wenn dann als etwas Gefährliches. Unbekannte Geräusche, Gegenstände, die selbstständig ihren Standort verändern und Stimmen zu hören, die nicht da sein sollten sei völlig normal könne aber natürlich erschreckend sein, wenn man keine Erfahrung damit habe und Energien als böse und unerwünscht sehe. 
 
->
 > *«Wir sind alle Eins.»*
-
 
 Wenn die Gestalt aus deiner Zimmerecke dir das nächste Mal einen Schrecken einjagt, so versuche doch ein paar Worte mit ihr zu wechseln. Vielleicht erfährst du wieso sie dich jede Nacht besuchen kommt und wenn du keine Antwort erhältst so räume endlich deinen Kleiderhaufen vom Schreibtischstuhl weg!
