@@ -18,7 +18,7 @@ Spukgestalten und Geisterjäger*innen kennt man aus bekannten Horrorfilmen wie C
 
 Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnblocks von Safenwil. Das Summen der Eingangstür ist das einzige Geräusch, das die Abendstille durchbricht. Eine feine Duftnote Weihrauch hängt in der Luft des Eingangsbereichs, die mit jedem Stufenstritt stärker wird. Die Quelle des orientalischen Duftes ist die Wohnungstür von Thomas Frei. Hinter der Wohnungstür versteckt sich eine gründlich ausgeräucherte, von sakralen Gegenständen und Ghostbustersfanartikeln übersähte Wohnung. Nach 15 Minuten warten, in denen Herr Frei ruhelos hinter verschiedenen Türen verschwindet, um letzte Telefonate zu führen, beginnt die Reise in die Welt des Paranormalen. 
 
-![](wohnung-von-thomas-frei.jpg)
+![Abbildung 1: Wohnung von Thomas F. (Linda und Luana)](wohnung-von-thomas-frei.jpg)
 
 ## Geboren als Medium
 
