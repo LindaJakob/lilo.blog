@@ -6,7 +6,7 @@ pinned = false
 +++
 # Unterwegs mit den Ghosthunters
 
-Spukgestalten und Geisterjäger*innen kennt man aus bekannten Horrorfilmen wie Conjuring und Ghostbusters. Angsteinflössende Gestalten die Menschen heimsuchen, diese quälen und so um den Verstand bringen. Doch was hat es auf sich mit diesen Geistern? Gibt es sie wirklich? Oder ist die Gestalt, die mich jede Nacht aus der dunklen Zimmerecke beobachtet doch nur der Schatten meines Kleiderhaufens auf dem Schreibtischstuhl?
+{{<lead>}}Spukgestalten und Geisterjäger*innen kennt man aus bekannten Horrorfilmen wie Conjuring und Ghostbusters. Angsteinflössende Gestalten die Menschen heimsuchen, diese quälen und so um den Verstand bringen. Doch was hat es auf sich mit diesen Geistern? Gibt es sie wirklich? Oder ist die Gestalt, die mich jede Nacht aus der dunklen Zimmerecke beobachtet doch nur der Schatten meines Kleiderhaufens auf dem Schreibtischstuhl?{{</lead>}}
 
 \
 *Eine Reportage von Linda Jakob und Luna Petitmermet, 26. April. 2024*
@@ -20,6 +20,8 @@ Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnbloc
 ## Geboren als Medium
 
 «Also, angefangen hat es im Kindesalter mit 4 Jahren» leitet Thomas Frei ein, er habe schon damals unbewusst mit Elementarwesen Kontakt aufgenommen. Sie hätten Ähnlichkeiten mit dem Gollum aus Herr der Ringe gehabt. Ungefähr drei Jahre später begann der Kontakt zu verstorbenen Kindern, der ging über zum Kontakt mit Erwachsenen bis hin zum Vorhersehen von Geschehnissen. 
+
+
 Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter tätig und führt medizinische Telefonate durch, ein kostenloser Service, um Menschen in medizinischen Fragen zu beraten und allenfalls zur Notfallnummer weiterzuleiten. 
 
 ![](bild-von-thomas-frei.png)
