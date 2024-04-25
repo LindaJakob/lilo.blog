@@ -3,6 +3,7 @@ title = "Auf der Spur des Übersinnlichen"
 date = "2024-04-23"
 draft = false
 pinned = false
+footnotes = "Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team ([Vorstand - GhostHunters Schweiz)](<Vorstand - GhostHunters Schweiz>)\n\nAbbildung 5: Sebastian Walther, Psycholog der UPD-Bern (<Research: Prof. Dr. med. Sebastian Walther - Clinical Neuroscience Bern (unibe.ch)>"
 +++
 # Unterwegs mit den Ghosthunters
 
@@ -23,7 +24,7 @@ Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnbloc
 
 {{<box title="Thomas Frei">}}
 
-![Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team](bild-von-thomas-frei.png "Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team")
+![Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team](bild-von-thomas-frei.png "Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team")
 
 Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter tätig und führt medizinische Telefonate durch, ein kostenloser Service, um Menschen in medizinischen Fragen zu beraten und allenfalls zur Notfallnummer weiterzuleiten.{{</box>}}
 
@@ -44,7 +45,7 @@ Die Ausbildung zum Ghosthunter kann jede Person machen, es sei jeder Mensch fäh
 
 «Was ist der Tod?» Thomas Frei nimmt Stift und Blatt zur Hand, zeichnet ein Strichmenschlein, das von einem schimmernden Kreis, der die Aura symbolisieren soll, umgeben ist. Er streicht es durch und zeichnet einen neuen Strichmenschen. Nun skizziert er die Aura neben das Strichmenschchen. «Wenn du bei Google Aura eingibst, heisst es immer: Ach ja, der Körper ist in der Aura oder die Seele ist um den Körper oder im Körper… doch das ist falsch!», sagt Frei dezidiert.
 
-![](tod.png)
+![Abbildung 4: Skizze des menschlichen Körpers und seiner Aura (Linda und Luana)](tod.png "Abbildung 4: Skizze des menschlichen Körpers und seiner Aura (Linda und Luana)")
 
 Er erklärt, dass zwei Energien in einem geschlossenen Raum einen Kurzschluss ergäben. Diese Aussage sei auf physikalische Gesetze zurückzuführen, in denen man von zwei gegensätzlichen Polen ausgehe. In diesem Fall seien die beiden Polen der Körper und die Aura in der menschlichen Hülle als geschlossener Raum, diese Gegensätze lösen bei einer direkten Verbindung einen Kurzschluss aus. Zusammenfassend sei es also so, dass der Körper grobstofflich und die Aura feinstofflichen sei und somit zwei getrennte Energien. Charakter und all unsere Eigenschaften seien im Feinstofflichen Teil abgespeichert, eine unendliche Energie, die nach dem Tod nicht einfach verschwinde. Diesen Teil brauche man, um in alle Formen der menschlichen Kommunikation zu gehen. Das Grobstoffliche sei alles, was man sehen könne, der Körper. 
 Bei dem Sterbeprozess trennten sich diese beiden Energien voneinander, der Körper vergehe, aber das Feinstoffliche bleibe als Energie auf unserem Planeten zurück. Der Planet Erde sei auch eine grosse Energie und alles, was auf der Erde existiere und lebe, sei Energie, die nicht einfach verloren gehen könne. 
@@ -55,7 +56,7 @@ Herr Prof. Dr. med. Walther, aus dem Gebiet der Psychiatrie und Psychotherapie w
 
 {{<box title="Sebastian Wlather">}}
 
-![Abbildung 4: Sebastian Walther, Psycholog der UPD-Bern (Universität Bern) ](bild-von-sebastian-walther.jpg "Abbildung 4: Sebastian Walther, Psycholog der UPD-Bern (Universität Bern) ")
+![Abbildung 5: Sebastian Walther, Psycholog der UPD-Bern ](bild-von-sebastian-walther.jpg "Abbildung 5: Sebastian Walther, Psycholog der UPD-Bern")
 
 Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psychotherapie der UPD gibt aus seiner Position eine wissenschaftlich basierte Sicht auf das Thema der Paranormalität. Der Schwerpunkt seiner Arbeit ist die Erforschung motorischer Störungen bei psychischen Erkrankungen. Der Patient*innen die er behandelt, haben eine ganze Reihe an Auffälligkeiten die dazu führen dass sie auch in der nonverbalen Kommunikation falsch verstanden werden. Die Betroffenen nehmen beispielsweise komische Körperhaltungen ein oder können nicht richtig gestikulieren. {{</box>}}
 
