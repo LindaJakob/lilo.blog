@@ -45,7 +45,7 @@ Komplementärmediziner*in
 Komplementärmedizin ist eine Behandlungsmethode, die andere Theorien und 
 Behandlungsmethoden verfolgt als die Schulmedizin. Es ist ein breites Spektrum an 
 Methoden es geht von Akupunktur über Homöopathie bis hin zur traditionellen 
-Chinesischen Medizin.  
+Chinesischen Medizin.\
  {{</box>}}
 
 {{</box>}}
@@ -80,7 +80,16 @@ Herr Prof. Dr. med. Walther, aus dem Gebiet der Psychiatrie und Psychotherapie w
 
 ![Abbildung 5: Sebastian Walther, Psycholog der UPD-Bern ](bild-von-sebastian-walther.jpg "Abbildung 5: Sebastian Walther, Psycholog der UPD-Bern")
 
-Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psychotherapie der UPD gibt aus seiner Position eine wissenschaftlich basierte Sicht auf das Thema der Paranormalität. Der Schwerpunkt seiner Arbeit ist die Erforschung motorischer Störungen bei psychischen Erkrankungen. Der Patient*innen die er behandelt, haben eine ganze Reihe an Auffälligkeiten die dazu führen dass sie auch in der nonverbalen Kommunikation falsch verstanden werden. Die Betroffenen nehmen beispielsweise komische Körperhaltungen ein oder können nicht richtig gestikulieren. {{</box>}}
+Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psychotherapie der UPD gibt aus seiner Position eine wissenschaftlich basierte Sicht auf das Thema der Paranormalität. Der Schwerpunkt seiner Arbeit ist die Erforschung motorischer Störungen bei psychischen Erkrankungen. Der Patient*innen die er behandelt, haben eine ganze Reihe an Auffälligkeiten die dazu führen dass sie auch in der nonverbalen Kommunikation falsch verstanden werden. Die Betroffenen nehmen beispielsweise komische Körperhaltungen ein oder können nicht richtig gestikulieren. 
+
+{{<box>}} 
+Motorische Störungen 
+Motorische Störungen sind Eigenschaften des menschlichen Körpers, die die 
+Grundlagen von Bewegung sind und gleichzeitig die körperliche Leitfähigkeit 
+beschreiben. Die fünf Grundfähigkeiten sind Kraft, Ausdauer, Schnelligkeit, 
+Beweglichkeit und Koordination.  {{</box>}}
+
+{{</box>}}
 
 ## «Wir haben alle 10 Sinne»
 
