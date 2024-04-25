@@ -21,7 +21,9 @@ Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnbloc
 
 «Also, angefangen hat es im Kindesalter mit 4 Jahren» leitet Thomas Frei ein, er habe schon damals unbewusst mit Elementarwesen Kontakt aufgenommen. Sie hätten Ähnlichkeiten mit dem Gollum aus Herr der Ringe gehabt. Ungefähr drei Jahre später begann der Kontakt zu verstorbenen Kindern, der ging über zum Kontakt mit Erwachsenen bis hin zum Vorhersehen von Geschehnissen. 
 
-{{<box>}}
+{{<box title="Ausklappbare Box">}}
+
+## Thomas Frei
 
 ![Abbildung 2: Bild von Thomas F.](bild-von-thomas-frei.png "Abbildung 2: Bild von Thomas F.")
 
