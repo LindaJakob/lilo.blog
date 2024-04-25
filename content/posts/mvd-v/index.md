@@ -67,10 +67,14 @@ Herr Prof. Dr. med. Walther, aus dem Gebiet der Psychiatrie und Psychotherapie w
 
 Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psychotherapie der UPD gibt aus seiner Position eine wissenschaftlich basierte Sicht auf das Thema der Paranormalität. Der Schwerpunkt seiner Arbeit ist die Erforschung motorischer Störungen bei psychischen Erkrankungen. Der Patient*innen die er behandelt, haben eine ganze Reihe an Auffälligkeiten die dazu führen dass sie auch in der nonverbalen Kommunikation falsch verstanden werden. Die Betroffenen nehmen beispielsweise komische Körperhaltungen ein oder können nicht richtig gestikulieren. {{</box>}}
 
+
+
 ## «Wir haben alle 10 Sinne»
 
 Laut Freis Theorien seien alle Menschen mit 10 Sinnen geboren, die während dem Entwicklungsprozess von Kindern zu Jugendlichen durch die Sozialisierung unserer Gesellschaft oft verloren gehen würden. Wie bekannt haben wir Menschen den Tast-, Seh-, Riech- und Geschmackssinn. Die erweiterten 5 Sinne seien die sogenannten hellen Sinne, die Grundsinne in verschärfter. Durch diese hellen Sinne hätten wir das Gespür für Übernatürliches. 
 «Ein Medium ist kein spezieller Mensch», meint Herr Frei, ein Medium welches sage, es habe spezielle Fähigkeiten das lüge schlicht und einfach. Medien hätten einfach diese hellen Sinne präsent, die der Mainstreammensch gar nicht für existent halte. Eine Person, die sich als Medium bezeichne, sei imstande Botschaften vom Übersinnlichen zu erhalten und so eine Kommunikation zwischen Energien und Mensch herzustellen, dies verliefe ausschliesslich über die hellen Sinne.
+
+
 
 ## Verschiedene Theorien, verschiedene Meinungen
 
