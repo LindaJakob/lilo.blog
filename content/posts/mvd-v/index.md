@@ -10,7 +10,7 @@ footnotes = "Quellen\n\nAbbildung 2: Thomas Frei, Präsident und ELITE-Führungs
 {{<lead>}}Spukgestalten und Geisterjäger*innen kennt man aus bekannten Horrorfilmen wie Conjuring und Ghostbusters. Angsteinflössende Gestalten die Menschen heimsuchen, diese quälen und so um den Verstand bringen. Doch was hat es auf sich mit diesen Geistern? Gibt es sie wirklich? Oder ist die Gestalt, die mich jede Nacht aus der dunklen Zimmerecke beobachtet doch nur der Schatten meines Kleiderhaufens auf dem Schreibtischstuhl?{{</lead>}}
 
 \
-*Eine Reportage von Linda Jakob und Luna Petitmermet, 26. April. 2024*
+*Eine Reportage von Linda Jakob und Luana Petitmermet, 26. April. 2024*
 
 *März 2024…*
 
