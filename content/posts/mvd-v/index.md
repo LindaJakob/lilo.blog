@@ -24,7 +24,7 @@ Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnbloc
 
 {{<box title="Thomas Frei">}}
 
-![Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team](bild-von-thomas-frei.png "Abbildung 2: Thomas Frei, Präsident und ELITE-Führungs-Team")
+![Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team](bild-von-thomas-frei.png "Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team")
 
 Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter tätig und führt medizinische Telefonate durch, ein kostenloser Service, um Menschen in medizinischen Fragen zu beraten und allenfalls zur Notfallnummer weiterzuleiten.
 
@@ -79,9 +79,9 @@ Bei dem Sterbeprozess trennten sich diese beiden Energien voneinander, der Körp
 
 Herr Prof. Dr. med. Walther, aus dem Gebiet der Psychiatrie und Psychotherapie widerspricht dieser Aussage jedoch: Unser Körper und unsere Seele sei eine Energie und werde nicht in zwei Bereiche aufgeteilt. Es können zwar seelische Funktionen gemessen werden, doch nicht die Seele selbst es sei etwas, das von der Wissenschaft nicht erfasst werden könne. Daher sei es nicht möglich, dass sie weiterexistiere. Bei einem Sterbeprozess entfliehe die Energie eines Körpers durch die Ausstrahlung von Wärme.
 
-{{<box title="Sebastian Wlather">}}
+{{<box title="Sebastian Walther">}}
 
-![Abbildung 5: Sebastian Walther, Psychologe der UPD-Bern ](bild-von-sebastian-walther.jpg "Abbildung 5: Sebastian Walther, Psychologe der UPD-Bern")
+![Abbildung 5: Sebastian W., Psychologe der UPD-Bern ](bild-von-sebastian-walther.jpg "Abbildung 5: Sebastian W., Psychologe der UPD-Bern")
 
 Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psychotherapie der UPD gibt aus seiner Position eine wissenschaftlich basierte Sicht auf das Thema der Paranormalität. Der Schwerpunkt seiner Arbeit ist die Erforschung motorischer Störungen bei psychischen Erkrankungen. Der Patient*innen, die er behandelt, haben eine ganze Reihe an Auffälligkeiten die dazu führen dass sie auch in der nonverbalen Kommunikation falsch verstanden werden. Die Betroffenen nehmen beispielsweise komische Körperhaltungen ein oder können nicht richtig gestikulieren. 
 
