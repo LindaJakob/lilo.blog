@@ -48,7 +48,7 @@ Kraft zu aktivieren.
 
 Komplementärmedizin ist eine Behandlungsmethode, die andere Theorien und 
 Behandlungsmethoden verfolgt als die Schulmedizin. Es ist ein breites Spektrum an 
-Methoden es geht von Akupunktur über Homöopathie bis hin zur traditionellen 
+Methoden, es geht von Akupunktur über Homöopathie bis hin zur traditionellen 
 Chinesischen Medizin. {{</box>}}
 
 {{</box>}}
