@@ -30,31 +30,26 @@ Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachs
 
 {{<box>}} 
 
-#### 
-Reikimeister*innen 
-
+**Reikimeister*innen** 
 
 Reiki bedeutet «universelle Lebensenergie». Es gibt eine gewisse Energie, die uns alles zu jeder 
 Zeit zur Verfügung steht, die wir auch nutzen können um Behandlung an anderen Lebewesen. 
 Bei der Anwendung von Reiki werden Selbstheilungskräfte aktiviert, Blockaden gelöst und die 
 Gedanken werden klarer.  
 
-#### Hypnosetherapeut*in 
-
+**Hypnosetherapeut*in**
 
 Die Hypnose beschreibt den Prozess, indem Menschen sich selber oder andere 
 Menschen in einen anderen Bewusstseinszustand versetzten können: Hypnotische 
 Trance. Es ist zur Aufarbeitung von Traumata oder anderen Ängsten und um eine positive 
 Kraft zu aktivieren.  
 
-#### Komplementärmediziner*in 
-
+**Komplementärmediziner*in**
 
 Komplementärmedizin ist eine Behandlungsmethode, die andere Theorien und 
 Behandlungsmethoden verfolgt als die Schulmedizin. Es ist ein breites Spektrum an 
 Methoden es geht von Akupunktur über Homöopathie bis hin zur traditionellen 
-Chinesischen Medizin.\
- {{</box>}}
+Chinesischen Medizin. {{</box>}}
 
 {{</box>}}
 
@@ -92,9 +87,7 @@ Herr Prof. Dr. med. Walther von der Universitätsklinik für Psychiatrie und Psy
 
 {{<box>}} 
 
-#### 
-Motorische Störungen 
-
+**Motorische Störungen** 
 
 Motorische Störungen sind Eigenschaften des menschlichen Körpers, die die 
 Grundlagen von Bewegung sind und gleichzeitig die körperliche Leitfähigkeit 
