@@ -26,7 +26,7 @@ Die Sonne ist bereits verschwunden und ein eisiger Windzug zieht um die Wohnbloc
 
 ![Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team](bild-von-thomas-frei.png "Abbildung 2: Thomas F., Präsident und ELITE-Führungs-Team")
 
-Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter tätig und führt medizinische Telefonate durch, ein kostenloser Service, um Menschen in medizinischen Fragen zu beraten und allenfalls zur Notfallnummer weiterzuleiten.
+Thomas Frei war als diplomierter Krankenpfleger tätig und wurde mit dem Erwachsenwerden zum Spiritualisten. Er hat anschliessend die Ausbildung zum Komplementärmediziner absolviert und nebenbei Hypnosetherapeut, Reikimeister und weiterführende therapeutische Ausbildungen abgeschlossen. Heute ist Thomas Frei als Ghosthunter und Medium tätig.
 
 {{<box>}} 
 
@@ -55,15 +55,15 @@ Chinesischen Medizin. {{</box>}}
 
 ## Die Arbeit als Ghosthunter*in
 
-Die ehrenamtliche Arbeit, die man im Ghosthunterverein leisten kann, muss mit einer Ausbildung zum/zur Ghosthunter\*in eingeleitet werden. In der Ausbildung werden die Grundlagen gelernt, um Paranormales zu verstehen und deuten zu können. Es gibt im Verein verschiedene Gruppen an Helfer\*innen, die in Einsatz gehen dürfen. Für einen Einsatz müsse aber immer mindestens ein sogenanntes Elitemitglied dabei sein, welches schon viel Erfahrungen habe und die Vereinsmitglieder unterstützen könne. 
-Der Verein arbeitet mit einer Universität aus Freiburg zusammen, um Substanzen und Beweismaterial zu untersuchen. Der Verein und das gesamte Denken von Thomas Frei und den Menschen, die in dem Bereich der Paranormalität arbeiten, wird stark von der Wissenschaft infrage gestellt. Die Wissenschaft erkenne nichts an, was nicht bewiesen werden könne. Mit dokumentierten Experimenten und Beobachtungen, versuche Frei wie die Wissenschaft, Phänomene zu wiederholen damit man seine Arbeit ernst nehme. 
+Die ehrenamtliche Arbeit, die man im Ghosthunterverein als Mitglied leisten darf, kann mit einer Ausbildung zum/zur Ghosthunter\*in eingeleitet werden. In der Ausbildung werden die Grundlagen gelernt, um Paranormales zu verstehen und deuten zu können. Es gibt im Verein verschiedene Gruppen an Helfer\*innen, die in Einsatz gehen dürfen. Für einen Einsatz müsse aber immer mindestens ein sogenanntes Elitemitglied dabei sein, welches schon viel Erfahrungen habe und die Vereinsmitglieder unterstützen könne. 
+Der Verein arbeitet mit einer Universität aus Freiburg zusammen, um Substanzen und Beweismaterial zu untersuchen. Der Verein und das gesamte Denken von Thomas Frei und den Menschen, die in dem Bereich der Paranormalität arbeiten, wird stark von der Wissenschaft infrage gestellt. Die Wissenschaft erkenne nichts an, was nicht bewiesen oder gesehen werden könne. Mit dokumentierten Experimenten und Beobachtungen, versuche Frei wie die Wissenschaft, Phänomene zu wiederholen damit man seine Arbeit ernst nehme. 
 Der Ghosthunterverein sei leider auch für kriminelle Energien verlockend. Menschen, die das Vertrauen der Kund\*innen missbrauchen wollen. Herr Frei erklärt, es sei sehr oft so, dass Kund\*innen bei einem Einsatz oft nicht anwesend sein wollen und ihnen dann einen Hausschlüssel überliessen, bis die Arbeit getan sei. Das könne bei einigen zu unprofessionellen Gedanken führen. Herr Frei habe deswegen auch schon Mitarbeitende aus dem Verein ausschliessen müssen. Bedauerlicherweise hätten sich diese Menschen dann zu einer eigenen Organisation zusammengeschlossen und seien jetzt auch als «Ghosthunters» unterwegs. Es sei daher sehr wichtig, dass man als hilfesuchende Person nicht auf diese Organisation reinfällt. 
 
 {{<box title="Ghosthuntersausweis">}}
 
 ![Abbildung 3: Ghosthuntersausweis (Linda und Luana)](bild-von-ghosthunterausweis.jpg "Abbildung 3: Ghosthuntersausweis (Linda und Luana)")
 
-Jede*r, der im Ghosthunterverein arbeite, habe daher einen Ausweis, der die Zugehörigkeit zum Verein bestätige. 
+Jede*r, der im Ghosthunterverein arbeite, habe daher einen Ausweis, der die Zugehörigkeit zum Verein bestätige. Die GhostHunters Schweiz mache auf Ihrer Homepage darauf aufmerksam niemand in Ihr Haus eintreten zu lassen ohne diesen speziellen Ausweis.
 Die Ausbildung zum Ghosthunter kann jede Person machen, es sei jeder Mensch fähig, sich mit diesem Themenbereich auseinanderzusetzen. {{</box>}}
 
 ## Mit dem Tod zum Geist?
@@ -98,7 +98,7 @@ Beweglichkeit und Koordination.  {{</box>}}
 
 ## «Wir haben alle 10 Sinne»
 
-Laut Freis Theorien seien alle Menschen mit 10 Sinnen geboren, die während dem Entwicklungsprozess von Kindern zu Jugendlichen durch die Sozialisierung unserer Gesellschaft oft verloren gehen würden. Wie bekannt haben wir Menschen den Tast-, Seh-, Riech- und Geschmackssinn. Die erweiterten 5 Sinne seien die sogenannten hellen Sinne, die Grundsinne in verschärfter. Durch diese hellen Sinne hätten wir das Gespür für Übernatürliches. 
+Laut Freis Theorien seien alle Menschen mit 10 Sinnen geboren, die während dem Entwicklungsprozess von Kindern zu Jugendlichen durch die Sozialisierung unserer Gesellschaft oft unterdrückt werden. Wie bekannt haben wir Menschen den Tast-, Seh-, Riech- und Geschmackssinn. Die erweiterten 5 Sinne seien die sogenannten hellen Sinne, die Grundsinne in verschärfter. Durch diese hellen Sinne hätten wir das Gespür für Übernatürliches. 
 «Ein Medium ist kein spezieller Mensch», meint Herr Frei, ein Medium, welches sage, es habe spezielle Fähigkeiten, das lüge schlicht und einfach. Medien hätten einfach diese hellen Sinne präsent, die der Mainstreammensch gar nicht für existent halte. Eine Person, die sich als Medium bezeichne, sei imstande, Botschaften vom Übersinnlichen zu erhalten und so eine Kommunikation zwischen Energien und Mensch herzustellen, dies verliefe ausschliesslich über die hellen Sinne.
 
 ## Verschiedene Theorien, verschiedene Meinungen
